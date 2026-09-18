@@ -1,1 +1,2 @@
 Hello, this is story 1.
+Story 1 is being updated just for the practice purpose.

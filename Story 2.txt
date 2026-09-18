@@ -1,1 +1,2 @@
 Hello, this is story 2.
+I'm writing this text files just for practice purpose.
